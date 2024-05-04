@@ -1,5 +1,5 @@
 /**
- * we have a superclass Bird with a method fly() representing the common
+ * Here we have a superclass Bird with a method fly() representing the common
  * behavior of all birds. We then have two subclasses Duck and Sparrow, each
  * with their specific behaviors (swim() for Duck and chirp() for Sparrow).
  * 
